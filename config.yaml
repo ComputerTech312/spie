@@ -1,0 +1,7 @@
+server: irc.rizon.net
+port: 6697
+channel: "#channel"
+nickname: "spie"
+realname: "My Bot"
+password: "mypassword"
+use_ssl: true
